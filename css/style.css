@@ -4,3 +4,7 @@ body {
   background: orange;
   color: white;
 }
+
+h1 {
+  text-align: center;
+}
