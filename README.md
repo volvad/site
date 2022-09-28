@@ -1,3 +1,3 @@
 ## This is a training site
-[Link site](https://volvad.github.io/site/) 
-[Website appearance](/img/hello.jpg)
+[Link site](https://volvad.github.io/site/) <br>
+[Website appearance](/assets/img/hello.jpg)
