@@ -1,3 +1,2 @@
-## This is a training site
-[Link site](https://volvad.github.io/site/) <br>
+# This is a training [site](https://volvad.github.io/site/)
 ![Website appearance](/img/hello.png)
